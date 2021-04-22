@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Go&amp;Play</string>
+    <string name="razorApiKey">rzp_test_vU9PFBjpR6WVy0</string>
+    <string name="twilio_accountSID">ACbd8b7a5392e07b184973440a7d26c94d</string>
+    <string name="twilio_authToken">7337f7f29a62463ca8a43db21ab51500</string>
+    <string name="companyNo">+17066599827</string>
+</resources>
